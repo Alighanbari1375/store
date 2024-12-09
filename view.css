@@ -5,7 +5,7 @@
     background-color: rgb(10, 14, 31);
     padding: 3rem;
     color: rgba(243, 244, 246, 1);
-    margin-top: 120px;
+    margin-top: 10px;
     
     
     
@@ -144,6 +144,10 @@
     align-items: center;
     height: 100vh;
     margin:0 ;
+    
+  
+  
+
   }
   
   
